@@ -1,5 +1,6 @@
 import numpy as np
 import wradlib
+import matplotlib.pyplot as plt
 
 # Some additional functions and objects
 radars = {
@@ -156,3 +157,11 @@ def dbz2depth(dbz):
     data = wradlib.zr.z_to_r(data, a=200., b=1.6)
     # to depth
     return wradlib.trafo.r_to_depth(data, tdeltas["DX"])
+    
+def rmse(x,y):
+    return (np.sqrt( np.mean((x-y)**2) ) )
+
+def rmse2plot(x,y, maxval):
+    plt.text(0.05*maxval, 0.9*maxval, "RMSE=%.1f mm" % rmse(x, y),
+             fontsize=12, backgroundcolor="white")
+

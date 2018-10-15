@@ -105,3 +105,12 @@ figs/*
 
 # mypy
 .mypy_cache/
+
+panke_zonal_points_cart/
+test_zonal_points_cart/
+geojson/
+__pycache__
+.ipynb_checkpoints/
+bokeh
+
+

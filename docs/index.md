@@ -2,4 +2,4 @@
 
 ## August 2, 2019
 
-![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png")
+![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02")

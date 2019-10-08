@@ -42,84 +42,84 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 
 # 2. August 2
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-08-02.png "Verification 2019-08-02")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-08-02.png "Timeseries 2019-08-02")
 
 
 # 31. Juli 2019
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png "Rainmap 2019-07-31")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-31.png "Verification 2019-07-31")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-31.png "Timeseries 2019-07-31")
 
 
 # 29. Juli 2019
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png "Rainmap 2019-07-29")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-29.png "Verification 2019-07-29")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-29.png "Timeseries 2019-07-29")
 
 
 
 # 20. Juli 2019
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png "Rainmap 2019-07-20")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-20.png "Verification 2019-07-20")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-20.png "Timeseries 2019-07-20")
 
 
 # 11. Juni 2019
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png "Rainmap 2019-06-11")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-11.png "Verification 2019-06-11")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-11.png "Timeseries 2019-06-11")
 
 
 # 6. Juni 2019
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-06.png "Rainmap 2019-06-06")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap2019-06-06.png) to enlarge)
 
-### Ereignissummen
+#### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-06.png "Verification 2019-06-06")
 
-### Zeitreihen
+#### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-06.png "Timeseries 2019-06-06")

@@ -20,7 +20,7 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 ## 2. August 2
 
-### Kartendarstellung
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02")
 
 Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png) to enlarge in new tab.
@@ -33,6 +33,7 @@ Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/event
 
 ## 31. Juli 2019
 
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png "Rainmap 2019-07-31")
 
 Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png) to enlarge in new tab.
@@ -45,6 +46,7 @@ Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/event
 
 ## 20. Juli 2019
 
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png "Rainmap 2019-07-20")
 
 Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png) to enlarge in new tab.
@@ -57,6 +59,7 @@ Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/event
 
 ## 11. Juni 2019
 
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png "Rainmap 2019-06-11")
 
 Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge in new tab.
@@ -69,6 +72,7 @@ Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/event
 
 ## 6. Juni 2019
 
+#### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-06.png "Rainmap 2019-06-06")
 
 Click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge in new tab.

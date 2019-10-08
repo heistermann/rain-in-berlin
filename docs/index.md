@@ -68,6 +68,21 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-31.png "Timeseries 2019-07-31")
 
 
+# 29. Juli 2019
+
+### Kartendarstellung
+![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png "Rainmap 2019-07-29")
+
+(click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png) to enlarge)
+
+### Ereignissummen
+![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-29.png "Verification 2019-07-29")
+
+### Zeitreihen
+![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-29.png "Timeseries 2019-07-29")
+
+
+
 # 20. Juli 2019
 
 ### Kartendarstellung

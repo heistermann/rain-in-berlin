@@ -101,10 +101,10 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-06.png "Rainmap 2019-06-06")
 
-(click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge)
+(click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap2019-06-06.png) to enlarge)
 
 ### Ereignissummen
-![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-11.png "Verification 2019-06-11")
+![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-06.png "Verification 2019-06-06")
 
 ### Zeitreihen
-![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-11.png "Timeseries 2019-06-11")
+![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-06.png "Timeseries 2019-06-06")

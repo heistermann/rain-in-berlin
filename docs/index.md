@@ -35,10 +35,10 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png) to enlarge)
 
-### Verifikation
+### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-08-02.png "Verification 2019-08-02")
 
-### Zeitreihen DX vs. Regenschreiber
+### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-08-02.png "Timeseries 2019-08-02")
 
 
@@ -49,10 +49,10 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png) to enlarge)
 
-### Verifikation
+### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-31.png "Verification 2019-07-31")
 
-### Zeitreihen DX vs. Regenschreiber
+### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-31.png "Timeseries 2019-07-31")
 
 
@@ -63,10 +63,10 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png) to enlarge)
 
-### Verifikation
+### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-07-20.png "Verification 2019-07-20")
 
-### Zeitreihen DX vs. Regenschreiber
+### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-20.png "Timeseries 2019-07-20")
 
 
@@ -77,10 +77,10 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge)
 
-### Verifikation
+### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-11.png "Verification 2019-06-11")
 
-### Zeitreihen DX vs. Regenschreiber
+### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-11.png "Timeseries 2019-06-11")
 
 
@@ -91,8 +91,8 @@ Für jede Analyse wurden vier Produktvarianten untersucht:
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png) to enlarge)
 
-### Verifikation
+### Ereignissummen
 ![verfication](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/scatter_2019-06-11.png "Verification 2019-06-11")
 
-### Zeitreihen DX vs. Regenschreiber
+### Zeitreihen
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-11.png "Timeseries 2019-06-11")

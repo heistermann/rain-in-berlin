@@ -36,11 +36,16 @@ ebenfalls 5 Minuten.
 
 ### Verifikation
 Zur Überprüfung der Produkte werden die geschätzten Ereignissummen mit den Beobachtungen der Niederschlagsschreiber
-verglichen. Ferner erfolgte eine Darstellung der kumulierten Niederschlagssummen in einer zeitlichen Auflösung von
-5 Minuten. In dieser Darstellung lassen sich defekte Niederschlagsschreiber identifizieren, die mutmaßlich von Staueffekten
+verglichen. Ferner erfolgt eine Darstellung der kumulierten Niederschlagssummen in einer zeitlichen Auflösung von
+5 Minuten. In dieser Darstellung lassen sich auch defekte Niederschlagsschreiber identifizieren, die mutmaßlich von Staueffekten
 betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmittelbar feststellen.
 
-# 2. August 2
+Die radargestützte Niederschlagsschätzung an einem Regenschreiberstandort wird ermittelt, indem in einer Nachbarschaft
+von 1,5 Kilometern das Radarbin ermittelt wird, dessen Ereignissumme dem Niederschlagsschreiber am nächsten kommt. Dieses
+Verfahren trägt der Unsicherheit in der räumlichen Verortung der radargestützten Niederschlagsschätzung am Boden Rechnung
+(u.a. Winddrifteffekte, Öffnungswinkel des Radars usw.).
+
+# 2. August 2019 (13-17 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02")
@@ -54,7 +59,7 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-08-02.png "Timeseries 2019-08-02")
 
 
-# 31. Juli 2019
+# 31. Juli 2019 (16-20 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png "Rainmap 2019-07-31")
@@ -68,7 +73,7 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-31.png "Timeseries 2019-07-31")
 
 
-# 29. Juli 2019
+# 29. Juli 2019 (14-18 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png "Rainmap 2019-07-29")
@@ -83,7 +88,7 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 
 
 
-# 20. Juli 2019
+# 20. Juli 2019 (19-24 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png "Rainmap 2019-07-20")
@@ -97,7 +102,7 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-07-20.png "Timeseries 2019-07-20")
 
 
-# 11. Juni 2019
+# 11. Juni 2019 (19-3 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png "Rainmap 2019-06-11")
@@ -111,7 +116,7 @@ betroffen sind. Ein Vegetationseinfluss lässt sich auf diese Weise nicht unmitt
 ![timeseries](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/cumsumproducts_2019-06-11.png "Timeseries 2019-06-11")
 
 
-# 6. Juni 2019
+# 6. Juni 2019 (12-21 Uhr, UTC)
 
 #### Kartendarstellung
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-06.png "Rainmap 2019-06-06")

@@ -63,7 +63,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 #### 13:00-16:00, UTC
 
-#### Ereignissummen (Kartendarstellung)
+### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02 13:00-16:00 UTC")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png) to enlarge)
@@ -77,7 +77,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 # 31. Juli 2019
 
-#### 16:00-20:00, UTC
+### 16:00-20:00, UTC
 
 #### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-31.png "Rainmap 2019-07-31 16:00-20:00 UTC")
@@ -93,7 +93,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 # 29. Juli 2019
 
-#### 14:00-17:00, UTC
+### 14:00-17:00, UTC
 
 #### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-29.png "Rainmap 2019-07-29 14:00-17:00 UTC")
@@ -110,7 +110,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 # 20. Juli 2019
 
-#### 20:00-23:00, UTC
+### 20:00-23:00, UTC
 
 #### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-07-20.png "Rainmap 2019-07-20 20:00-23:00 UTC")
@@ -126,7 +126,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 # 11. Juni 2019
 
-#### 19:00-2:00, UTC
+### 19:00-2:00, UTC
 
 #### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-11.png "Rainmap 2019-06-11 19:00-2:00 UTC")
@@ -142,7 +142,7 @@ Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-
 
 # 6. Juni 2019
 
-#### 12:00-21:00, UTC
+### 12:00-21:00, UTC
 
 #### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-06-06.png "Rainmap 2019-06-06 12:00-21:00 UTC")

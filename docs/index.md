@@ -26,7 +26,7 @@ Die zeitliche Auflösung beträgt 5 Minuten. Die Umrechnung von Reflektivität i
 erfolgt nach [Marshall und Palmer](https://docs.wradlib.org/en/stable/generated/wradlib.zr.r_to_z.html#wradlib.zr.r_to_z).
 
 **DX korrigiert**: Bei intensiven Niederschlägen wird das Radarsignal entlang des Ausbreitungspfades gedämpft.
-Dies kann zu einer Unterschätzung des Niederschlags führen. Daher wird diese Dämpfung zunächst korrigiert (nach [Jacobi & Heistermann 2016](https://www.tandfonline.com/doi/full/10.1080/19475705.2016.1155080)); ansonsten wie `DX`.
+Dies kann zu einer Unterschätzung des Niederschlags führen. Daher wird diese Dämpfung zunächst korrigiert (nach [Jacobi & Heistermann 2016](https://www.tandfonline.com/doi/full/10.1080/19475705.2016.1155080)); ansonsten wie *DX*.
 
 **RW**: Beim [RW-Produkt](https://www.dwd.de/DE/leistungen/radolan/produktuebersicht/radolan_produktuebersicht_pdf.pdf?__blob=publicationFile&v=7)
 des DWD handelt es sich um ein deutschlandweites Komposit mit einer zeitlichen
@@ -57,13 +57,13 @@ von 1,5 Kilometern jenes Radarbin ermittelt wird, dessen Ereignissumme dem Niede
 Verfahren trägt der Unsicherheit in der räumlichen Verortung der radargestützten Niederschlagsschätzung am Boden Rechnung
 (u.a. durch Winddrifteffekte, Öffnungswinkel des Radars, Refraktionsindex der Atmosphäre usw.).
 
-Das Produkt `Ìnterpolation` wird mittels n-facher Kreuzvalidierung geprüft (X-Valid.).
+Das Produkt *Ìnterpolation* wird mittels n-facher Kreuzvalidierung geprüft (X-Valid.).
 
 # 2. August 2019
 
-#### 13:00-16:00, UTC
+### 13:00-16:00, UTC
 
-### Ereignissummen (Kartendarstellung)
+#### Ereignissummen (Kartendarstellung)
 ![rain map](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png "Rainmap 2019-08-02 13:00-16:00 UTC")
 
 (click [here](https://github.com/heistermann/rain-in-berlin/raw/master/docs/events/rainmap_2019-08-02.png) to enlarge)
